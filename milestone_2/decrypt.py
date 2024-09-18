@@ -1,4 +1,4 @@
-def simple_decrypt(encrypted_text):
+def simple_decrypt(encrypted_text): #a text decryption function that converts ASCII codes back to characters.
     decrypted_text = ""
     ascii_values = encrypted_text.split()  #Separate by spaces
     for value in ascii_values:
