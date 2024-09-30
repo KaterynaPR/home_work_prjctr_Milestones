@@ -10,5 +10,6 @@ This repository contains homework assignments organised by stage.
 - [Milestone 4: Milestone_4](milestone_4)
 - [Milestone 5: Data Generation and Reporting](milestone_5)
   - [data](milestone_5/data)
-    - [generate_data.py](milestone_5/data/generate_data.py)
-    - [report.py](milestone_5/data/report.py)
+    - [database.csv](milestone_5/data/database.csv)
+  - [generate_data.py](milestone_5/generate_data.py)
+  - [report.py](milestone_5/report.py)
