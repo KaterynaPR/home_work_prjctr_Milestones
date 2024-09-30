@@ -13,7 +13,7 @@ This repository contains homework assignments organised by stage.
     - [database.csv](Milestone_5/data/database.csv)
   - [generate_data.py](Milestone_5/generate_data.py)
   - [report.py](Milestone_5/report.py)
-- [Milestone 7: Ancient, Inc. 2](milestone_7)
+- [Milestone 7: Ancient, Inc. 2](Milestone_7)
   - [venv](Milestone_7/venv) (ignored)
   - [fetch_report.py](Milestone_7/fetch_report.py)
   - [server.py](Milestone_7/server.py)
